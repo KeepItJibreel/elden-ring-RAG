@@ -1,0 +1,6 @@
+Django
+numpy
+openai
+pandas
+python-dotenv
+sentence-transformers
